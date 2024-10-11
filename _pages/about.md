@@ -6,9 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+About Me
 ======
-I am a fourth-year PhD student at the University of Utah, under the supervision of Prof. Rajeev Balasubramonian, focusing on Machine Learning systems. My research explores a bidirectional methodology: Leveraging machine learning to design more efficient computer architectures that improve system performance, while also developing optimized architectures to enhance machine learning workloads, particularly in LLMs and healthcare applications.
+I am a fourth-year PhD student at the University of Utah, under the supervision of [Prof. Rajeev Balasubramonian](https://users.cs.utah.edu/~rajeev/), focusing on Machine Learning systems. My research explores a bidirectional methodology: Leveraging machine learning to design more efficient computer architectures that improve system performance, while also developing optimized architectures to enhance machine learning workloads, particularly in LLMs and healthcare applications.
+
+My Research Interests
+------
+Research, Evaluate and Design State-of-the-Art Machine Learning/AI Software-Hardware Co-Design Accelerators
+
+* Built the first hardware-implementable neural data prefetcher utilizing a low-cost Spiking
+Neural Network with an unsupervised learning algorithm (STDP) to learn memory access
+patterns on the fly. Surpasses the state-of-the-art rule-based prefetchers in terms of IPC, accuracy, and
+coverage. [Published at ASPLOS ’24]
+
+* Leveraging the success of AI and AI hardware to advance acceleration for broader domains, like
+computational biology. Designing a configurable systolic array architecture to provide the
+flexibility to implement a range of dataflows and operators at a low cost to alleviate irregular and
+sparse operations and improve utilization of the corresponding compute units. [Paper targeted for
+ISCA ’25 submission]
+
+* Harnessing NVIDIA/AMD GPU architecture to optimize genomic analysis workloads such as
+compute-intensive genome alignment and variant calling by parallelizing sequential code, minimizing
+host-device memory transfers, and fine-tuning kernel launch configurations to maximize GPU
+utilization and performance.
+
+* Optimizing training and inference of large language models (LLMs) at scale by leveraging TPU,
+GPU, and ASIC architectures. Exploring techniques such as model/data sharding, flash
+attention, continuous batching, and speculative decoding to improve compute utilization and
+reduce memory footprint.
 
 <!---
 A data-driven personal website
