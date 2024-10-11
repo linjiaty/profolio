@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Lin Jia"
   pronouns         : "she/her"  
   bio              : "Hello World!!!I'm a PhD student at the University of Utah, working on a machine learning system. "
