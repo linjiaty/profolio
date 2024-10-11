@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lin's Profolio"
+title: "Lin Jia"
 author_profile: true
 redirect_from: 
   - /about/
