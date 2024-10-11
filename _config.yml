@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Test side bar change"
+  name             : "Lin Jia"
   pronouns         : "she/her"  
   bio              : "Hello!!!World!!!"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Salt Lake City, Utah"
+  employer         : "University of Utah"
   uri              : # URL
   email            : "test-email@example.org" 
 
