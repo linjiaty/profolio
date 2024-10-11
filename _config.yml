@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Lin Jia"
   pronouns         : "she/her"  
-  bio              : "Hello World!!!"
+  bio              : "Hello World!!!I'm a PhD student at the University of Utah, working on a machine learning system. "
   location         : "Salt Lake City, Utah"
   employer         : "University of Utah"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/linjiaty"
+  github           : "linjiaty"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/linjia-uu/
+  linkedin         : "linjia-uu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
